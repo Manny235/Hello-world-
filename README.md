@@ -1,4 +1,2 @@
 # Hello-world-
-
-Hi human
-I will abey you command, human. 
+just another repository 
